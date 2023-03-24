@@ -1,1 +1,1 @@
-# Code for Kaggle competition "House Prices - Advanced Regression Techniques"
+Code for Kaggle competition "House Prices - Advanced Regression Techniques"
